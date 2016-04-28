@@ -1,0 +1,55 @@
+c:\users\isaac\documents\visual studio 2015\Projects\GISL\GISL\bin\ng.Net Template1.dll.config
+c:\users\isaac\documents\visual studio 2015\Projects\GISL\GISL\bin\ng.Net Template1.dll
+c:\users\isaac\documents\visual studio 2015\Projects\GISL\GISL\bin\ng.Net Template1.pdb
+c:\users\isaac\documents\visual studio 2015\Projects\GISL\GISL\bin\Antlr3.Runtime.dll
+c:\users\isaac\documents\visual studio 2015\Projects\GISL\GISL\bin\EntityFramework.dll
+c:\users\isaac\documents\visual studio 2015\Projects\GISL\GISL\bin\EntityFramework.SqlServer.dll
+c:\users\isaac\documents\visual studio 2015\Projects\GISL\GISL\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\isaac\documents\visual studio 2015\Projects\GISL\GISL\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\isaac\documents\visual studio 2015\Projects\GISL\GISL\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\isaac\documents\visual studio 2015\Projects\GISL\GISL\bin\Microsoft.Owin.dll
+c:\users\isaac\documents\visual studio 2015\Projects\GISL\GISL\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\isaac\documents\visual studio 2015\Projects\GISL\GISL\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\isaac\documents\visual studio 2015\Projects\GISL\GISL\bin\Microsoft.Owin.Security.dll
+c:\users\isaac\documents\visual studio 2015\Projects\GISL\GISL\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\isaac\documents\visual studio 2015\Projects\GISL\GISL\bin\Microsoft.Web.Infrastructure.dll
+c:\users\isaac\documents\visual studio 2015\Projects\GISL\GISL\bin\Newtonsoft.Json.dll
+c:\users\isaac\documents\visual studio 2015\Projects\GISL\GISL\bin\Owin.dll
+c:\users\isaac\documents\visual studio 2015\Projects\GISL\GISL\bin\System.Net.Http.Formatting.dll
+c:\users\isaac\documents\visual studio 2015\Projects\GISL\GISL\bin\System.Web.Helpers.dll
+c:\users\isaac\documents\visual studio 2015\Projects\GISL\GISL\bin\System.Web.Http.dll
+c:\users\isaac\documents\visual studio 2015\Projects\GISL\GISL\bin\System.Web.Http.Owin.dll
+c:\users\isaac\documents\visual studio 2015\Projects\GISL\GISL\bin\System.Web.Http.WebHost.dll
+c:\users\isaac\documents\visual studio 2015\Projects\GISL\GISL\bin\System.Web.Mvc.dll
+c:\users\isaac\documents\visual studio 2015\Projects\GISL\GISL\bin\System.Web.Optimization.dll
+c:\users\isaac\documents\visual studio 2015\Projects\GISL\GISL\bin\System.Web.Razor.dll
+c:\users\isaac\documents\visual studio 2015\Projects\GISL\GISL\bin\System.Web.WebPages.Deployment.dll
+c:\users\isaac\documents\visual studio 2015\Projects\GISL\GISL\bin\System.Web.WebPages.dll
+c:\users\isaac\documents\visual studio 2015\Projects\GISL\GISL\bin\System.Web.WebPages.Razor.dll
+c:\users\isaac\documents\visual studio 2015\Projects\GISL\GISL\bin\WebGrease.dll
+c:\users\isaac\documents\visual studio 2015\Projects\GISL\GISL\bin\Antlr3.Runtime.pdb
+c:\users\isaac\documents\visual studio 2015\Projects\GISL\GISL\bin\EntityFramework.xml
+c:\users\isaac\documents\visual studio 2015\Projects\GISL\GISL\bin\EntityFramework.SqlServer.xml
+c:\users\isaac\documents\visual studio 2015\Projects\GISL\GISL\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\isaac\documents\visual studio 2015\Projects\GISL\GISL\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\isaac\documents\visual studio 2015\Projects\GISL\GISL\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\isaac\documents\visual studio 2015\Projects\GISL\GISL\bin\Microsoft.Owin.xml
+c:\users\isaac\documents\visual studio 2015\Projects\GISL\GISL\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\isaac\documents\visual studio 2015\Projects\GISL\GISL\bin\Microsoft.Owin.Security.xml
+c:\users\isaac\documents\visual studio 2015\Projects\GISL\GISL\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\isaac\documents\visual studio 2015\Projects\GISL\GISL\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\isaac\documents\visual studio 2015\Projects\GISL\GISL\bin\Newtonsoft.Json.xml
+c:\users\isaac\documents\visual studio 2015\Projects\GISL\GISL\bin\System.Net.Http.Formatting.xml
+c:\users\isaac\documents\visual studio 2015\Projects\GISL\GISL\bin\System.Web.Helpers.xml
+c:\users\isaac\documents\visual studio 2015\Projects\GISL\GISL\bin\System.Web.Http.xml
+c:\users\isaac\documents\visual studio 2015\Projects\GISL\GISL\bin\System.Web.Http.Owin.xml
+c:\users\isaac\documents\visual studio 2015\Projects\GISL\GISL\bin\System.Web.Http.WebHost.xml
+c:\users\isaac\documents\visual studio 2015\Projects\GISL\GISL\bin\System.Web.Mvc.xml
+c:\users\isaac\documents\visual studio 2015\Projects\GISL\GISL\bin\System.Web.Razor.xml
+c:\users\isaac\documents\visual studio 2015\Projects\GISL\GISL\bin\System.Web.WebPages.xml
+c:\users\isaac\documents\visual studio 2015\Projects\GISL\GISL\bin\System.Web.WebPages.Deployment.xml
+c:\users\isaac\documents\visual studio 2015\Projects\GISL\GISL\bin\System.Web.WebPages.Razor.xml
+c:\users\isaac\documents\visual studio 2015\Projects\GISL\GISL\bin\System.Web.Optimization.xml
+c:\users\isaac\documents\visual studio 2015\Projects\GISL\GISL\obj\Debug\GISL.csprojResolveAssemblyReference.cache
+c:\users\isaac\documents\visual studio 2015\Projects\GISL\GISL\obj\Debug\ng.Net Template1.dll
+c:\users\isaac\documents\visual studio 2015\Projects\GISL\GISL\obj\Debug\ng.Net Template1.pdb
